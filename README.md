@@ -57,14 +57,14 @@ Este repositório contém um projeto para a construção de uma planilha finance
 - Personalize as categorias e parâmetros conforme sua necessidade.
 - Registre suas receitas e despesas diariamente.
 - Monitore seu progresso e alcance suas metas financeiras!
-- Interaja a planilha com a IA - chatgpt.
+- Interaja os dados da planilha com a IA - chatgpt.
 
   
  ## ✨ Para conferir o resultado, clique abaixo:
 
 [Planilha Financeira Interativa](Tb_Finan_Trab_DIO.xlsx) 
 
-## 💡 Acompanhe seu dinheiro, controle suas despesas e planeje um futuro financeiro mais sólido com esta planilha!
+💡 Acompanhe seu dinheiro, controle suas despesas e planeje um futuro financeiro mais sólido com esta planilha!
 
 
 ## 👨‍💻 Expert
