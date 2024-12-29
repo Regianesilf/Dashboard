@@ -36,7 +36,8 @@ Este repositório contém um projeto para a construção de uma planilha finance
 ## ✨ Como foi feito ?
 
 - Planilha de Excel; 
-- Leonard.ai Para gerar ilustrações
+- Leonard.ai para gerar ilustrações
+- Chatgpt para interação com os dados
 
 
 ## 📚 Materiais
