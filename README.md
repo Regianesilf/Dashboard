@@ -43,6 +43,12 @@ Este repositório contém um projeto para a construção de uma planilha finance
 
 - [Aula da Plataforma da DIO ](https://web.dio.me/project/como-organizar-sua-vida-financeira-com-planilhas-inteligentes-e-ia/learning/6d861b52-3882-4e6a-9b04-16638a3f3beb?back=/track/coding-the-future-ia-generativa-microsoft-copilot&tab=undefined&moduleId=undefined)
   
+##✨ Recursos
+- Controle de Receitas e Despesas: Registro de entradas e saídas financeiras.
+- Categorias Personalizáveis: Organização de despesas por categorias, como alimentação, moradia, lazer, entre outras.
+- Relatórios Automáticos: Gráficos e tabelas dinâmicas para visualização de dados financeiros.
+- Metas Financeiras: Definição de objetivos financeiros com acompanhamento do progresso.
+- Facilidade de Uso: Design intuitivo com fórmulas e automações integradas.
 
 ## 🛠️ Instruções de execução
 
@@ -52,7 +58,7 @@ Este repositório contém um projeto para a construção de uma planilha finance
 - Monitore seu progresso e alcance suas metas financeiras!
 - Interaja a planilha com a IA - chatgpt.
 
-
+  
  ## ✨ Para conferir o resultado, clique abaixo:
 
 [Planilha Financeira Interativa](Tb_Finan_Trab_DIO.xlsx) 
