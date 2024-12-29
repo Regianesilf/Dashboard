@@ -43,14 +43,20 @@ Este repositório contém um projeto para a construção de uma planilha finance
 ## 📚 Materiais
 
 - [Aula da Plataforma da DIO ](https://web.dio.me/project/como-organizar-sua-vida-financeira-com-planilhas-inteligentes-e-ia/learning/6d861b52-3882-4e6a-9b04-16638a3f3beb?back=/track/coding-the-future-ia-generativa-microsoft-copilot&tab=undefined&moduleId=undefined)
-- 
+  
 
 ## 🛠️ Instruções de execução
 
 Utilize 
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2.  Use os prompts de artes no `Leonard.ai para gerar ilustrações.
+- 🤖 1. Elaboração da planilhas passo a passo junto com as aulas
+- 🤖 2. Interação da planilha com a IA - chatgpt.
+- 🤖 3.  Use os prompts de artes no `Leonard.ai para gerar a ilustração
+
+ ## ✨ Para conferir o resultado, clique abaixo:
+
+[Planilha Financeira Interativa]() 
+
 
 
 ## 👨‍💻 Expert
