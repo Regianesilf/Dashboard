@@ -1,4 +1,4 @@
-# Projeto Dashboard:resultado do Desafio Planilha Financeira proposto no curso da DIO
+# Projeto Dashboard:resultado do Desafio "Como organizar sua vida Financeira com Planilhas Inteligentes e IA"
 Este repositório contém um projeto para a construção de uma planilha financeira, ideal para quem deseja gerenciar suas finanças de forma prática e eficiente. O objetivo é oferecer uma solução personalizável, fácil de usar e visualmente intuitiva, que ajude a monitorar receitas, despesas, poupanças e metas financeiras.
 <p align="center">
 <img 
@@ -21,45 +21,28 @@ Este repositório contém um projeto para a construção de uma planilha finance
 </p>
 
 <p align="center">
-    preview do podcast
+    preview do Dashboard
 </p>
 
-<div align="center">
-    <audio src="https://www.youtube.com/@RegianeSilf/podcasts" controls title="Podcast editado"></audio>
-</div>
-
-<div align="center">
-    <audio src="https://www.youtube.com/@RegianeSilf/podcasts" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonard.ai](https://leonardo.ai/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Excel]()
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pelo CapCut
-- Leonard.ai Para gerar capas
+- Planilha de Excel; 
+- Leonard.ai Para gerar ilustrações
 
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-15e5281b31de808fac64e9d0c5b5357b)
-- [Gerador de aúdio e Vídeo](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+- [Aula da Plataforma da DIO ]()
+- 
 
 ## 🛠️ Instruções de execução
 
@@ -69,12 +52,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `CapCut`
 - 🤖 3. Use os prompts de artes no `Leonard.ai - Leonard.ai surgiu como uma alternativa ao MidJourney que não oferece mais as versão gratuita`
 
-##  Clique abaixo e acompanhe o resultado do nosso trabalho no Youtube:
-
-Podcast: Força Tarefa Python: Rumo à PF
-
-- [Podcast: Força Tarefa Python: Rumo à PF ](https://www.youtube.com/@RegianeSilf/podcasts)
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-15e5281b31de808fac64e9d0c5b5357b)
 
 ## 👨‍💻 Expert
 
