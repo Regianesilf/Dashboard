@@ -64,6 +64,8 @@ Este repositório contém um projeto para a construção de uma planilha finance
 
 [Planilha Financeira Interativa](Tb_Finan_Trab_DIO.xlsx) 
 
+## 💡 Acompanhe seu dinheiro, controle suas despesas e planeje um futuro financeiro mais sólido com esta planilha!
+
 
 ## 👨‍💻 Expert
 
