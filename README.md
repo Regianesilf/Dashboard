@@ -59,7 +59,7 @@ Utilize
       align=left 
       margin=10 
       width=80 
-      src="assets/Slide2.JPG"
+      src="Slide2.JPG"
     />
     <p>&nbsp&nbsp&nbspRegiane Silf<br>
     &nbsp&nbsp&nbsp
