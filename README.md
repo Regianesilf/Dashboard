@@ -24,9 +24,6 @@ Este repositório contém um projeto para a construção de uma planilha finance
     preview do Dashboard
 </p>
 
-
-
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -35,7 +32,9 @@ Este repositório contém um projeto para a construção de uma planilha finance
 
 ## ✨ Como foi feito ?
 
-- Planilha de Excel; 
+- Microsoft Excel ou Google Sheets.
+- Fórmulas e funções avançadas para cálculos automáticos.
+- Tabelas dinâmicas e gráficos integrados.
 - Leonard.ai para gerar ilustrações
 - Chatgpt para interação com os dados
 
@@ -47,11 +46,12 @@ Este repositório contém um projeto para a construção de uma planilha finance
 
 ## 🛠️ Instruções de execução
 
-Utilize 
+- Faça o download do arquivo da planilha ou clone este repositório.
+- Personalize as categorias e parâmetros conforme sua necessidade.
+- Registre suas receitas e despesas diariamente.
+- Monitore seu progresso e alcance suas metas financeiras!
+- Interaja a planilha com a IA - chatgpt.
 
-- 🤖 1. Elaboração da planilhas passo a passo junto com as aulas
-- 🤖 2. Interação da planilha com a IA - chatgpt.
-- 🤖 3.  Use os prompts de artes no `Leonard.ai para gerar a ilustração
 
  ## ✨ Para conferir o resultado, clique abaixo:
 
