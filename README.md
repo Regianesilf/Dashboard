@@ -41,16 +41,15 @@ Este repositório contém um projeto para a construção de uma planilha finance
 
 ## 📚 Materiais
 
-- [Aula da Plataforma da DIO ]()
+- [Aula da Plataforma da DIO ](https://web.dio.me/project/como-organizar-sua-vida-financeira-com-planilhas-inteligentes-e-ia/learning/6d861b52-3882-4e6a-9b04-16638a3f3beb?back=/track/coding-the-future-ia-generativa-microsoft-copilot&tab=undefined&moduleId=undefined)
 - 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `CapCut`
-- 🤖 3. Use os prompts de artes no `Leonard.ai - Leonard.ai surgiu como uma alternativa ao MidJourney que não oferece mais as versão gratuita`
+- 🤖 2.  Use os prompts de artes no `Leonard.ai para gerar ilustrações.
 
 
 ## 👨‍💻 Expert
